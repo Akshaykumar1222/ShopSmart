@@ -35,7 +35,7 @@ It provides a smooth online shopping experience with secure authentication, prod
 
 | Home Page | Product Page | Cart Page |
 |-----------|--------------|-----------|
-| ![Home Page](assets/home.png) | ![Product Page](assets/product.png) | ![Cart Page](assets/cart.png) |
+| ![Home Page](assets/HomePage.png) | ![Product Page](assets/productpage.png) | ![Cart Page](assets/cart.png) |
 
 
 
