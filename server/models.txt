@@ -1,0 +1,9 @@
+// server/models/placeholder.js
+
+// This file will hold MongoDB models (e.g., User, Product) later
+
+const placeholder = {
+  note: "MongoDB models will be added here"
+};
+
+module.exports = placeholder;
