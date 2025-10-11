@@ -41,6 +41,16 @@ It provides a smooth online shopping experience with secure authentication, prod
 
 ---
 
+## 🎥 Demo Video
+
+Here’s a quick demo of **ShopSmart** in action.  
+You can see the home page, product browsing, cart management, and checkout process.
+
+[![Watch Demo Video](assets/HomePage.png)](assets/Demovideo.mp4)
+
+> Click the image above to play the demo video.
+
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
