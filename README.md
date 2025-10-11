@@ -128,10 +128,7 @@ Commit your changes
 
 Open a pull request
 
-📜 License
-This project is licensed under the MIT License – you’re free to use and modify it.
-
 ✨ Author
 Akshay Kumar
 📧 [akshaykumarmajji@gmail.com]
-🌐
+🌐 https://github.com/Akshaykumar1222
