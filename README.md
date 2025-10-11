@@ -38,13 +38,14 @@ It provides a smooth online shopping experience with secure authentication, prod
 | ![Home Page](assets/home.png) | ![Product Page](assets/product.png) | ![Cart Page](assets/cart.png) |
 
 
+
 ---
 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/ShopSmart.git
+git clone https://github.com/<Akshaykumar1222>/ShopSmart.git
 cd ShopSmart
 2️⃣ Backend Setup
 bash
@@ -130,5 +131,5 @@ Open a pull request
 ## ✨ Author
 
 **Akshay Kumar**  
-📧 [your-email@example.com](mailto:akshaykumarmajji@gmail.com)  
+📧 [akshaykumarmajji@gmail.com.com](mailto:akshaykumarmajji@gmail.com)  
 🌐 [GitHub Profile](https://github.com/Akshaykumar1222)
