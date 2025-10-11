@@ -34,10 +34,9 @@ It provides a smooth online shopping experience with secure authentication, prod
 ## 📸 Screenshots
 
 | Home Page | Product Page | Cart Page |
-|------------|---------------|------------|
-| ![Home Screenshot](assets/home.png) | ![Product Screenshot](assets/product.png) | ![Cart Screenshot](assets/cart.png) |
+|-----------|--------------|-----------|
+| ![Home Page](assets/home.png) | ![Product Page](assets/product.png) | ![Cart Page](assets/cart.png) |
 
-*(Add your own screenshots in the `/assets/` folder and update the paths)*
 
 ---
 
@@ -128,7 +127,8 @@ Commit your changes
 
 Open a pull request
 
-✨ Author
-Akshay Kumar
-📧 [akshaykumarmajji@gmail.com]
-🌐 https://github.com/Akshaykumar1222
+## ✨ Author
+
+**Akshay Kumar**  
+📧 [your-email@example.com](mailto:akshaykumarmajji@gmail.com)  
+🌐 [GitHub Profile](https://github.com/Akshaykumar1222)
