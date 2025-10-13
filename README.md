@@ -1,58 +1,76 @@
 # 🛍️ ShopSmart – Full Stack E-Commerce Web Application
 
-ShopSmart is a full-stack e-commerce web application built using **React**, **Node.js**, **Express**, and **MongoDB**.  
+ShopSmart is a full-stack e-commerce web application built using React, Node.js, Express, and MongoDB.  
 It provides a smooth online shopping experience with secure authentication, product browsing, cart management, and payment integration.
 
 ---
 
-## 🚀 Features
+## 🧾 Overview
+ShopSmart replicates a real-world online shopping platform where users can explore products, manage their carts, and complete orders seamlessly.  
+It also includes an **Admin Dashboard** to manage products efficiently, making it a complete end-to-end e-commerce solution.
 
-- 🧑‍💻 **User Authentication** – Register and login using JWT tokens  
-- 🛒 **Product Management** – Browse products by category or price range  
-- ❤️ **Add to Cart / Wishlist** – Manage items before purchase  
-- 💳 **Payment Gateway** – Secure online payments via Razorpay (demo/test mode)  
-- 🔍 **Search & Filters** – Easily find products using smart filters  
-- 🧾 **Order Management** – View past and current orders  
-- 🖥️ **Admin Dashboard** – Add, edit, or delete products (for admin users)  
-- 🌗 **Modern UI** – Fully responsive design using Tailwind CSS  
+---
+
+## 📚 Table of Contents
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Screenshots](#-screenshots)
+- [Demo Video](#-demo-video)
+- [Installation & Setup](#-installation--setup)
+- [Folder Structure](#-folder-structure)
+- [API Endpoints](#-api-endpoints)
+- [Deployment](#-deployment)
+- [Contributing](#-contributing)
+- [Author](#-author)
+
+---
+
+## 🚀 Features
+🧑‍💻 **User Authentication** – Register and login using JWT tokens  
+🛒 **Product Management** – Browse products by category or price range  
+❤️ **Add to Cart / Wishlist** – Manage items before purchase  
+💳 **Payment Gateway** – Secure online payments via Razorpay (demo/test mode)  
+🔍 **Search & Filters** – Easily find products using smart filters  
+🧾 **Order Management** – View past and current orders  
+🖥️ **Admin Dashboard** – Add, edit, or delete products (for admin users)  
+🌗 **Modern UI** – Fully responsive design using Tailwind CSS  
 
 ---
 
 ## 🧠 Tech Stack
 
 | Layer | Technology |
-|-------|-------------|
-| Frontend | React.js, Tailwind CSS, Axios, React Router |
-| Backend | Node.js, Express.js |
-| Database | MongoDB (Mongoose) |
-| Authentication | JWT (JSON Web Tokens), bcrypt |
-| Payment | Razorpay API (Test Mode) |
-| Hosting | Render / Vercel / MongoDB Atlas |
+|:------|:------------|
+| **Frontend** | React.js, Tailwind CSS, Axios, React Router |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB (Mongoose) |
+| **Authentication** | JWT (JSON Web Tokens), bcrypt |
+| **Payment** | Razorpay API (Test Mode) |
+| **Hosting** | Render / Vercel / MongoDB Atlas |
 
 ---
 
 ## 📸 Screenshots
 
 | Home Page | Product Page | Cart Page |
-|-----------|--------------|-----------|
+|------------|--------------|-----------|
 | ![Home Page](assets/HomePage.png) | ![Product Page](assets/productpage.png) | ![Cart Page](assets/cart.png) |
-
-
 
 ---
 
 ## 🎥 Demo Video
 
-Watch the demo video here:  
-[Watch Demo Video](https://drive.google.com/file/d/1WFnciO2GYmrlxplljdmt0Jk3tDo5oRI3/view?usp=drivesdk)
+[▶️ **Watch Demo Video**](https://drive.google.com/file/d/1WFnciO2GYmrlxplljdmt0Jk3tDo5oRI3/view?usp=drivesdk)
 
+*(Click the link above to watch a short demo of ShopSmart in action.)*
 
+---
 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<Akshaykumar1222>/ShopSmart.git
+git clone https://github.com/Akshaykumar1222/ShopSmart.git
 cd ShopSmart
 2️⃣ Backend Setup
 bash
@@ -135,8 +153,8 @@ Commit your changes
 
 Open a pull request
 
-## ✨ Author
+✨ Author
+Akshay Kumar
+📧 akshaykumarmajji@gmail.com
+🌐 GitHub Profile
 
-**Akshay Kumar**  
-📧 [akshaykumarmajji@gmail.com.com](mailto:akshaykumarmajji@gmail.com)  
-🌐 [GitHub Profile](https://github.com/Akshaykumar1222)
