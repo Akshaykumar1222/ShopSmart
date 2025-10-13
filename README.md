@@ -153,8 +153,9 @@ Commit your changes
 
 Open a pull request
 
-✨ Author
-Akshay Kumar
-📧 akshaykumarmajji@gmail.com
-🌐 GitHub Profile
+## ✨ Author
+
+**Akshay Kumar**  
+📧 [akshaykumarmajji@gmail.com.com](mailto:akshaykumarmajji@gmail.com)  
+🌐 [GitHub Profile](https://github.com/Akshaykumar1222)
 
